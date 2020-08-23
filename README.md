@@ -1,2 +1,2 @@
-# DGP
-Deep Geometry Processing
+# Deep Geometry Processing
+
