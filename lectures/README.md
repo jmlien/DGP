@@ -19,11 +19,11 @@
 
 ## Part 2: Modern Learning-Based Methods in Geometry Processing
 
-| Date | Topics | Reading  |
-|-|-|-|
-| Oct 22  | Mesh and Shape Decomposition and Segmentation |  | 
-| Oct 29  | Mesh Repair |  |
-| Nov 05 |  Simplification/Approximation/Remesh |  |
-| Nov 12 | Mesh Convolution/Miknowski Sums/Collision & Penetration |  |
-| Nov 19 | Mesh Reconstruction and Generation |  |
-| Dec 03 | Mesh Parameterization |  |
+| Date | Topics | Reading  | Presented by |
+|-|-|-|-|
+| Oct 22  | Mesh and Shape Decomposition and Segmentation |  |  |
+| Oct 29  | Mesh Repair |  | |
+| Nov 05 |  Simplification/Approximation/Remesh |  | |
+| Nov 12 | Mesh Convolution/Miknowski Sums/Collision & Penetration |  | |
+| Nov 19 | Mesh Reconstruction and Generation |  | |
+| Dec 03 | Mesh Parameterization |  | |
