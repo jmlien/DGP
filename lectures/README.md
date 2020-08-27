@@ -25,5 +25,5 @@
 | Oct 29  | Mesh Repair |  |
 | Nov 05 |  Simplification/Approximation/Remesh |  |
 | Nov 12 | Mesh Convolution/Miknowski Sums/Collision & Penetration depth |  |
-| Nov 19 | Mesh Reconstruction |  |
+| Nov 19 | Mesh Reconstruction and Generation |  |
 | Dec 03 | Mesh Parameterization |  |
