@@ -27,3 +27,11 @@
 | Nov 12 | Mesh Convolution/Miknowski Sums/Collision & Penetration |  | |
 | Nov 19 | Mesh Reconstruction and Generation |  | |
 | Dec 03 | Mesh Parameterization |  | |
+
+
+## Random Related Stuff
+
+| Topics | Reading  |
+|-|-|
+| Distance Field |  |
+| Mesh Unfolding |  |
