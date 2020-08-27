@@ -21,7 +21,7 @@
 
 | Date | Topics | Reading/Watching  | Presented by |
 |-|-|-|-|
-| Oct 22  | Mesh and Shape Decomposition and Segmentation |  |  |
+| Oct 22  | Shape Segmentation, classification, and analysis |  |  |
 | Oct 29  | Mesh Repair |  | |
 | Nov 05 |  Simplification/Approximation/Remesh |  | |
 | Nov 12 | Mesh Convolution/Miknowski Sums/Collision & Penetration |  | |
