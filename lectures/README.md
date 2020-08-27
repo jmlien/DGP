@@ -1,14 +1,15 @@
 # Schedule
 
+## Part 0: Introduction and Representations
 | Date | Topics | Reading  |
 |-|-|-|
 | Aug 27  | Instroduction & Syllabus  |  | 
-
+| Sep 03  | Representation, Solid Modeling and Boolean Operations | <li> Geometric and Solid Modeling by Hoffmann, Chapter 2 (pdf) <br> <li> A Note on the Modeling Space of Euler Operators, by Mantyla, 1984 (pdf) |
+  
 ## Part 1: Tradition Methods in Geometry Processing
 
 | Date | Topics | Reading  |
 |-|-|-|
-| Sep 03  | Representation, Solid Modeling and Boolean Operations | <li> Geometric and Solid Modeling by Hoffmann, Chapter 2 (pdf) <br> <li> A Note on the Modeling Space of Euler Operators, by Mantyla, 1984 (pdf) |
 | Sep 10 | Mesh and Shape Decomposition and Segmentation |  |
 | Sep 17 | Simplification/Approximation/Remesh |  |
 | Sep 24 | Mesh Reconstruction |  |
