@@ -1,4 +1,4 @@
-#Schedule
+# Schedule
 
 | Date | Topics | Reading  |
 |-|-|-|
