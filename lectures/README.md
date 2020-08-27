@@ -4,7 +4,7 @@
 | Date | Topics | Reading/Watching  |
 |-|-|-|
 | Aug 27  | Instroduction & Syllabus  |  | 
-| Sep 03  | Representation, Solid Modeling and Boolean Operations | <li> Geometric and Solid Modeling by Hoffmann, Chapter 2 (pdf) <br> <li> A Note on the Modeling Space of Euler Operators, by Mantyla, 1984 (pdf) |
+| Sep 03  | Representation, Solid Modeling and Boolean Operations | |
   
 ## Part 1: Tradition Methods in Geometry Processing
 
