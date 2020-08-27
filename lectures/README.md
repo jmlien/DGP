@@ -15,7 +15,7 @@
 | Sep 24 | Mesh Reconstruction |  |
 | Oct 01 | Mesh Repair |  |
 | Oct 08 | Mesh Parameterization |  |
-| Oct 15 | Mesh Convolution/Miknowski Sums/Collision & Penetration depth |  |
+| Oct 15 | Mesh Convolution/Miknowski Sums/Collision & Penetration |  |
 
 ## Part 2: Modern Learning-Based Methods in Geometry Processing
 
@@ -24,6 +24,6 @@
 | Oct 22  | Mesh and Shape Decomposition and Segmentation |  | 
 | Oct 29  | Mesh Repair |  |
 | Nov 05 |  Simplification/Approximation/Remesh |  |
-| Nov 12 | Mesh Convolution/Miknowski Sums/Collision & Penetration depth |  |
+| Nov 12 | Mesh Convolution/Miknowski Sums/Collision & Penetration |  |
 | Nov 19 | Mesh Reconstruction and Generation |  |
 | Dec 03 | Mesh Parameterization |  |
