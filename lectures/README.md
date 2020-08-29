@@ -3,7 +3,7 @@
 ## Part 0: Introduction and Representations
 | Date | Topics | Reading/Watching  |
 |-|-|-|
-| Aug 27  | Instroduction & Syllabus  |  | 
+| Aug 27  | Instroduction & Syllabus  | Lecture note ([pdf](https://www.dropbox.com/s/yzu6tkmio1ttcmq/01-Intro.pdf?dl=0)) | 
 | Sep 03  | Representation, Solid Modeling and Boolean Operations | |
   
 ## Part 1: Tradition Methods in Geometry Processing
