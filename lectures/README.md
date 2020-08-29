@@ -4,10 +4,7 @@
 | Date | Topics | Reading/Watching  |
 |-|-|-|
 | Aug 27  | Instroduction & Syllabus  | Lecture note ([pdf](https://www.dropbox.com/s/yzu6tkmio1ttcmq/01-Intro.pdf?dl=0)) | 
-| Sep 03  | Representation, Solid Modeling and Boolean Operations | 
-PMP Chapter 1 ([ebook](https://ebookcentral-proquest-com.mutex.gmu.edu/lib/GMU/detail.action?docID=1633503&pq-origsite=primo))
-Geometric and Solid Modeling by Hoffmann, Chapter 2 ([pdf](http://www.cs.purdue.edu/homes/cmh/distribution/books/chap2.pdf))
-[SCGP: Deep Learning for Geometric Data](https://www.youtube.com/watch?v=VRIVeq6RWA8) |
+| Sep 03  | Representation, Solid Modeling and Boolean Operations | PMP Chapter 1 ([ebook](https://ebookcentral-proquest-com.mutex.gmu.edu/lib/GMU/detail.action?docID=1633503&pq-origsite=primo))<br> Geometric and Solid Modeling by Hoffmann, Chapter 2 ([pdf](http://www.cs.purdue.edu/homes/cmh/distribution/books/chap2.pdf))<br>[SCGP: Deep Learning for Geometric Data](https://www.youtube.com/watch?v=VRIVeq6RWA8) |
   
 ## Part 1: Tradition Methods in Geometry Processing
 
