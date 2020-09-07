@@ -10,7 +10,7 @@
 
 | Date | Topics | Reading/Watching  |
 |-|-|-|
-| Sep 10 | Mesh and Shape Decomposition and Segmentation |  |
+| Sep 10 | Mesh and Shape Decomposition and Segmentation |  <li>A survey on Mesh Segmentation Techniques by Ariel Shamir 2008 (pdf) <br><li>Co-hierarchical analysis of shape structures (pdf) <br><li>Joint shape segmentation with linear programming (pdf) <br><li>Unsupervised co-segmentation for 3D shapes using iterative multi-label optimization (pdf) |
 | Sep 17 | Simplification/Approximation/Remesh |  |
 | Sep 24 | Mesh Reconstruction |  |
 | Oct 01 | Mesh Repair |  |
