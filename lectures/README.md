@@ -10,12 +10,12 @@
 
 | Date | Topics | Reading/Watching  |
 |-|-|-|
-| Sep 10 | Decomposition and Segmentation |  <li>A survey on Mesh Segmentation Techniques ([link](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2007.01103.x)) <br><li>Co-hierarchical analysis of shape structures ([pdf](https://kevinkaixu.net/papers/vankaick_sig13_coh.pdf)) <br><li>Joint shape segmentation with linear programming ([pdf](https://www.cs.utexas.edu/~huangqx/siga11_jointseg.pdf)) <br><li>Shape Segmentation by Approximate Convexity Analysis ([link](http://www.cs.tau.ac.il/~noafish/wcseg/))<br><li>Watch [libigl short intro](https://www.youtube.com/watch?v=OSQWCABxLsM) |
-| Sep 17 | Simplification/Approximation/Remesh |  |
+| Sep 10 | Mesh Decomposition and Segmentation |  <li>A survey on Mesh Segmentation Techniques ([link](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2007.01103.x)) <br><li>Co-hierarchical analysis of shape structures ([pdf](https://kevinkaixu.net/papers/vankaick_sig13_coh.pdf)) <br><li>Joint shape segmentation with linear programming ([pdf](https://www.cs.utexas.edu/~huangqx/siga11_jointseg.pdf)) <br><li>Shape Segmentation by Approximate Convexity Analysis ([link](http://www.cs.tau.ac.il/~noafish/wcseg/))<br><li>Watch [libigl short intro](https://www.youtube.com/watch?v=OSQWCABxLsM) |
+| Sep 17 | Mesh Simplification/Approximation/Remesh |  |
 | Sep 24 | Mesh Reconstruction |  |
 | Oct 01 | Mesh Repair |  |
 | Oct 08 | Mesh Parameterization |  |
-| Oct 15 | Mesh Convolution/Miknowski Sums/Collision & Penetration |  |
+| Oct 15 | Mesh Convolution/Collision & Penetration |  |
 
 ## Part 2: Modern Learning-Based Methods in Geometry Processing
 
