@@ -4,7 +4,7 @@
 
 | Date | Assignment | Due Date |
 |-|-|-|
-| Sep 24 | PA01 | Oct 15 |
+| Sep 24 | [PA01](https://github.com/jmlien/geometry-processing-mesh-segmentation) | Oct 15 |
 
 ## Part 2: Modern Learning-Based Methods in Geometry Processing
 
