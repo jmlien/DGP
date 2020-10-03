@@ -14,7 +14,7 @@
 | Sep 17 | Mesh Simplification/Approximation/Remesh | <li> PMP Chapters 6 & 7 ([ebook](https://ebookcentral-proquest-com.mutex.gmu.edu/lib/GMU/detail.action?docID=1633503&pq-origsite=primo))|
 | Sep 24 | Mesh Reconstruction | <li> A survey of the marching cubes algorithm ([link](http://www.sciencedirect.com.mutex.gmu.edu/science/article/pii/S0097849306001336)) <br><li> Screened Poisson Surface Reconstruction ([pdf](http://www.cs.jhu.edu/~misha/MyPapers/ToG13.pdf)) <br><li>Kinetic Shape Reconstruction ([link](https://dl.acm.org/doi/abs/10.1145/3376918)) |
 | Oct 01 | Mesh Repair | <li> PMP Chapter 8 ([ebook](https://ebookcentral-proquest-com.mutex.gmu.edu/lib/GMU/detail.action?docID=1633503&pq-origsite=primo))<br><li> A Practical Guide to Polygon Mesh Repairing ([pdf](http://www.graphics.rwth-aachen.de/media/papers/eg2012_tutorial_meshrepair_021.pdf)) <br><li>Repairing man-made meshes ([link](https://dl.acm.org/doi/abs/10.1145/3355089.3356507))|
-| Oct 08 | Mesh Parameterization |  |
+| Oct 08 | Mesh Parameterization | <li>PMP Chapter 5 ([ebook](https://ebookcentral-proquest-com.mutex.gmu.edu/lib/GMU/detail.action?docID=1633503&pq-origsite=primo))<br> <li> Autocut: Simultaneous Distortion and Cut Optimization for UV Mapping ([pdf](https://cims.nyu.edu/gcl/papers/Autocuts-2017.pdf) |
 | Oct 15 | Mesh Convolution/Collision & Penetration |  |
 
 ## Part 2: Modern Learning-Based Methods in Geometry Processing
