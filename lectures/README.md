@@ -15,12 +15,14 @@
 | Sep 24 | Mesh Reconstruction | <li> A survey of the marching cubes algorithm ([link](http://www.sciencedirect.com.mutex.gmu.edu/science/article/pii/S0097849306001336)) <br><li> Screened Poisson Surface Reconstruction ([pdf](http://www.cs.jhu.edu/~misha/MyPapers/ToG13.pdf)) <br><li>Kinetic Shape Reconstruction ([link](https://dl.acm.org/doi/abs/10.1145/3376918)) |
 | Oct 01 | Mesh Repair | <li> PMP Chapter 8 ([ebook](https://ebookcentral-proquest-com.mutex.gmu.edu/lib/GMU/detail.action?docID=1633503&pq-origsite=primo))<br><li> A Practical Guide to Polygon Mesh Repairing ([pdf](http://www.graphics.rwth-aachen.de/media/papers/eg2012_tutorial_meshrepair_021.pdf)) <br><li>Repairing man-made meshes ([link](https://dl.acm.org/doi/abs/10.1145/3355089.3356507))|
 | Oct 08 | Mesh Parameterization | <li>PMP Chapter 5 ([ebook](https://ebookcentral-proquest-com.mutex.gmu.edu/lib/GMU/detail.action?docID=1633503&pq-origsite=primo))<br> <li> Autocut: Simultaneous Distortion and Cut Optimization ([pdf](https://cims.nyu.edu/gcl/papers/Autocuts-2017.pdf)) |
-| Oct 15 | Mesh Convolution/Collision & Penetration |  |
+
 
 ## Part 2: Modern Learning-Based Methods in Geometry Processing
 
 | Date | Topics | Reading/Watching  | Presented by |
 |-|-|-|-|
+| Oct 15 | Representations |  <li>[PointNet++](http://stanford.edu/~rqi/pointnet2/)<br> <li>[VoxelNet](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3333.pdf)<br> <li>[MeshNet](https://dl.acm.org/doi/abs/10.1145/3306346.3322959) 
+  <li>[DeepSDF](https://arxiv.org/abs/1901.05103) |
 | Oct 22  | Shape Segmentation, classification, and analysis |  |  |
 | Oct 29  | Mesh Reconstruction and Generation |  | |
 | Nov 05 |  Simplification/Approximation/Remesh |  | |
