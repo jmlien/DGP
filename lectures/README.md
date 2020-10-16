@@ -23,11 +23,12 @@
 |-|-|-|-|
 | Oct 15 | Representations |  <li>[PointNet++](http://stanford.edu/~rqi/pointnet2/)<br> <li>[VoxelNet](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3333.pdf)<br><li>[MeshNet](https://dl.acm.org/doi/abs/10.1145/3306346.3322959)<br><li>[DeepSDF](https://arxiv.org/abs/1901.05103) |
 | Oct 22  | Shape Segmentation, classification, and analysis | <li>[SyncSpecCNN](https://arxiv.org/abs/1612.00606)<br><li>[CvxNet](https://openaccess.thecvf.com/content_CVPR_2020/papers/Deng_CvxNet_Learnable_Convex_Decomposition_CVPR_2020_paper.pdf)<br><li>[Projective Convolutional Networks](https://arxiv.org/abs/1612.02808) | Joe & Sulabh |
-| Oct 29  | Mesh Reconstruction and Generation | <li>[GRASS](https://kevinkaixu.net/papers/li_sig17_grass.pdf) <br><li>[FrankenGAN](https://arxiv.org/abs/1806.07179)<br><li>[PQ-NET](https://arxiv.org/abs/1911.10949) | Joe & Yong |
+| Oct 29  | Mesh Reconstruction and Generation _Part 1_ | <li>[GRASS](https://kevinkaixu.net/papers/li_sig17_grass.pdf) <br><li>[FrankenGAN](https://arxiv.org/abs/1806.07179)<br><li>[PQ-NET](https://arxiv.org/abs/1911.10949) | Joe & Yong |
 | Nov 05 |  Simplification/Approximation/Remesh | <li>[Cuboid Abstraction](https://isunchy.github.io/projects/cuboid_abstraction.html)<br><li>[Primitive Abstraction](https://openaccess.thecvf.com/content_cvpr_2017/html/Tulsiani_Learning_Shape_Abstractions_CVPR_2017_paper.html) | Xue & Yong|
-| Nov 12 | Mesh Convolution/Miknowski Sums/Collision & Penetration | <li>[DualConvMesh-Net](https://openaccess.thecvf.com/content_CVPR_2020/html/Schult_DualConvMesh-Net_Joint_Geodesic_and_Euclidean_Convolutions_on_3D_Meshes_CVPR_2020_paper.html) | Paul & Sulabh |
-  | Nov 19 | Mesh Repair | <li>[Shape Completion](https://arxiv.org/abs/1709.07599)<br><li>[Point cloud completion](https://arxiv.org/pdf/1904.00069.pdf) | Daniel & Xue |
+| Nov 12 | Mesh Reconstruction and Generation _Part 2_ | <li> | Paul & Sulabh |
+| Nov 19 | Mesh Repair | <li>[Shape Completion](https://arxiv.org/abs/1709.07599)<br><li>[Point cloud completion](https://arxiv.org/pdf/1904.00069.pdf) | Daniel & Xue |
 | Dec 03 | Mesh Parameterization | <li>[Seamless Toric Covers](https://dl.acm.org/doi/10.1145/3072959.3073616)<br><li>[Geodesic CNN](https://arxiv.org/abs/1501.06297)<br><li>[AtlasNet](https://arxiv.org/abs/1802.05384)<br><li>[Geometric Images](https://engineering.purdue.edu/cdesign/wp/deep-learning-3d-shape-surfaces-using-geometry-images/) | Daniel & Paul |
+| TBA | Mesh Convolution/Miknowski Sums/Collision & Penetration | <li>[DualConvMesh-Net](https://openaccess.thecvf.com/content_CVPR_2020/html/Schult_DualConvMesh-Net_Joint_Geodesic_and_Euclidean_Convolutions_on_3D_Meshes_CVPR_2020_paper.html) |  |
 
 
 ## Random Related Stuff
