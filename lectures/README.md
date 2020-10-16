@@ -27,7 +27,7 @@
 | Nov 05 |  Simplification/Approximation/Remesh |  | Xue & Yong|
 | Nov 12 | Mesh Convolution/Miknowski Sums/Collision & Penetration |  | Paul & Sulabh |
 | Nov 19 | Mesh Repair |  | Daniel & Xue |
-| Dec 03 | Mesh Parameterization |  | Daniel & Paul |
+| Dec 03 | Mesh Parameterization | <li>[Seamless Toric Covers](https://dl.acm.org/doi/10.1145/3072959.3073616)<br><li>[Geodesic CNN](https://arxiv.org/abs/1501.06297)<br><li>[AtlasNet](https://arxiv.org/abs/1802.05384) | Daniel & Paul |
 
 
 ## Random Related Stuff
