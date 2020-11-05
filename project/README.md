@@ -4,5 +4,5 @@
 |-|-|
 | Nov 12  | Project proposal |
 | Dec 10  | Project presentation | 
-| Dec 13   | Prject report due | 
+| Dec 13   | Project report due | 
  
