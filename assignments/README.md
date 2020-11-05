@@ -10,4 +10,4 @@
 
 | Date | Assignment | Due Date |
 |-|-|-|
-| Oct 22  | PA02 |  |
+| Oct 29  | PA02 | Nov 19 |
